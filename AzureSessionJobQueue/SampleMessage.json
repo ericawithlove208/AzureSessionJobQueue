@@ -1,0 +1,6 @@
+{
+  "action": "process",
+  "mkvfileStorage": "Blob",
+  "mkvFileLocation": "/this/is/a/path",
+  "mkvFileName": "test.mkv"
+}
