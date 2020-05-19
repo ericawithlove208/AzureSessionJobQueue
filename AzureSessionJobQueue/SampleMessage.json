@@ -1,6 +1,6 @@
 {
   "action": "process",
   "mkvfileStorage": "Blob",
-  "mkvFileLocation": "/this/is/a/path",
-  "mkvFileName": "test.mkv"
+  "mkvFileLocation": " https://kinotekdevstorage.blob.core.windows.net/sessionblob/KintoTek/TestFiles/",
+  "mkvFileName": "test1.mkv"
 }

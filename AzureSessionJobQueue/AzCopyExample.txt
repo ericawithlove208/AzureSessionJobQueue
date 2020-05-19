@@ -1,0 +1,2 @@
+﻿./azcopy.exe login --identity
+./azcopy.exe copy ./test.mkv https://kinotekdevstorage.blob.core.windows.net/sessionblob/test.mkv
